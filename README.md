@@ -30,7 +30,7 @@ It is intended for apps that already support Android Auto but are distributed ou
 
 ## Donations
 
-The optional EUR 5.00 donation supports AAEnabler's ongoing development. It does not purchase or include any third-party app.
+The optional EUR 4.00+VAT donation supports AAEnabler's ongoing development. It does not purchase or include any third-party app. DON'T FORGET! Donors of AAEnabler get Xtream Player Premium license for FREE!
 
 During the donation flow, AAEnabler asks for an email address. After a successful donation, that address is associated with the device UUID for donation and licence identification. Payment details are handled by the payment provider and are not stored in the app.
 
